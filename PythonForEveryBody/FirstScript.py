@@ -1,2 +1,9 @@
 # this is my first script in python
-print("This is my first script in python")
+x = 0
+if x < 2 :
+    print('Small')
+elif x < 10 :
+    print('Medium')
+else :
+    print('LARGE')
+print('All done')
